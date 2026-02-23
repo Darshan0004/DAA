@@ -4,6 +4,8 @@ Definition:
 Binary Search is an efficient searching algorithm that finds the position of a target element
 in a sorted array by repeatedly dividing the search range into half.
 
+
+
 #include <iostream>
 using namespace std;
 
