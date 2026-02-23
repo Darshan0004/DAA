@@ -1,4 +1,4 @@
-Bubble Sort
+# Bubble Sort
 
 Definition:
 Bubble Sort is a simple comparison-based sorting algorithm that repeatedly 
